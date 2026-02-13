@@ -64,16 +64,6 @@ Bagi saya, kode adalah instrumen untuk mewujudkan ambisi yang lebih tinggi:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Ferdy-Nurdianto&theme=grass&bg_color=ffffff&color=2ea44f&line=2ea44f&point=157a33&area=true&hide_border=true" width="100%" />
 </div>
 
----
-
-### 🐍 The Code Journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/M-Ferdy-Nurdianto/M-Ferdy-Nurdianto/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
----
-
 ### 🤝 Mari Terhubung
 
 <div align="center">
