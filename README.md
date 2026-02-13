@@ -29,12 +29,21 @@ Sebagai seorang **Programmer Wota**, saya percaya bahwa teknologi dan kreativita
 
 ---
 
-### 🔭 Detail Aktivitas
+### 🔭 Aktivitas & Fokus Saat Ini
 
-- 🔭 **Sedang Fokus**: Mengoptimalkan skalabilitas sistem website untuk **RefreshBreeze**.
+- 🔭 **Sedang Membangun**: Platform **"Cheki Digital"** inovatif untuk mendukung interaksi berbagai talenta idol dengan penggemarnya. 📸✨
 - 🌱 **Sedang Mendalami**: Arsitektur Microservices dan implementasi Web Security tingkat lanjut.
 - 👯 **Kolaborasi**: Terbuka untuk diskusi mengenai pengembangan ekosistem digital di industri kreatif.
 - ⚡ **Fun Fact**: Selalu menemukan solusi algoritma terbaik sambil mendengarkan setlist lagu idol favorit.
+
+---
+
+### ✨ Mimpi & Harapan Besar
+
+Bagi saya, baris kode bukan sekadar logika, tapi jembatan untuk meraih mimpi di industri yang saya cintai:
+
+1.  🎯 Menjadi bagian dari **JOT (JKT48 Operation Team)** untuk berkontribusi langsung pada perkembangan grup idol terbesar di Indonesia.
+2.  🎤 Membangun dan mengelola **Grup Idol sendiri** yang mampu memberikan semangat dan kegembiraan bagi banyak orang.
 
 ---
 
@@ -61,7 +70,7 @@ Sebagai seorang **Programmer Wota**, saya percaya bahwa teknologi dan kreativita
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Ferdy-Nurdianto&theme=grass&bg_color=ffffff&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Ferdy-Nurdianto&theme=grass&bg_color=ffffff&color=2ea44f&line=2ea44f&point=157a33&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
