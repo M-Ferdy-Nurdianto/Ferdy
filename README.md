@@ -1,103 +1,90 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=PAC-MAN%20EDITION&fontSize=70&fontColor=FFFF00&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=250&section=header&text=RefreshBreeze%20Staff&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
 <div align="center">
-  <h1>🕹️ PLAYER 1: <a href="https://github.com/M-Ferdy-Nurdianto" target="_blank">M-Ferdy-Nurdianto</a></h1>
+  <h1>🌿 M-Ferdy-Nurdianto</h1>
+  <p><b>Website Management | Website Developer | RefreshBreeze Group (Tulungagung)</b></p>
+  
   <p align="center">
-    <img src="https://img.shields.io/badge/STATUS-HIGH%20SCORE-yellow?style=for-the-badge&logo=probot&logoColor=black" />
-    <img src="https://img.shields.io/badge/ROLE-WEB%20DEV%20MANAGEMENT-blue?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/TEAM-REFRESHBREEZE%20STAFF-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Status-Staff%20Refresh%20Breeze-2ea44f?style=for-the-badge&logo=leaf&logoColor=white" />
+    <img src="https://img.shields.io/badge/Location-Tulungagung,%20Jawa%20Timur-157a33?style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=M-Ferdy-Nurdianto&label=Pengunjung&color=2ea44f&style=for-the-badge" alt="M-Ferdy-Nurdianto" />
   </p>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=M-Ferdy-Nurdianto&label=PLAYERS%20JOINED&color=FFFF00&style=for-the-badge" alt="M-Ferdy-Nurdianto" />
-</p>
+---
+
+### 🍃 Tentang Saya
+
+Seorang pengembang web yang berdedikasi tinggi, berfokus pada pembangunan ekosistem digital yang kokoh dan efisien. Di balik layar, saya juga seorang **Programmer Wota** yang menemukan harmoni antara logika baris kode dan semangat dari melodi idol. Bersama **RefreshBreeze**, saya berkomitmen untuk menyajikan "angin segar" dalam dunia teknologi.
+
+- 🔭 **Sedang Fokus**: Mengembangkan infrastruktur digital dan website managemen untuk **RefreshBreeze Group**.
+- 🌱 **Sedang Mendalami**: Optimasi performa web, keamanan sistem, dan integrasi AI untuk solusi modern.
+- 👯 **Kolaborasi**: Terbuka untuk diskusi teknis seputar pengembangan aplikasi web dan proyek kreatif lainnya.
+- ⚡ **Fun Fact**: Programmer yang mengandalkan ritme musik untuk menyelesaikan algoritma rumit.
 
 ---
 
-### 👾 MISSION OBJECTIVE: ABOUT ME
+### 🛠️ Keahlian & Teknologi
+
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=react,vue,js,tailwind,nodejs,py,java,supabase,git,vscode&perline=5" />
+  </a>
+</p>
 
 <div align="left">
-  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6Z2Z4Z2Z4Z2Z4Z2Z4Z2Z4Z2Z4Z2Z4Z2Z4Z2Z4Z2Z4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/gFmN708Fv9bKqOthf3/giphy.gif" width="150"/>
-  
-- 🏆 **Current Level**: Staff @ **RefreshBreeze Group** (Tulungagung) 🎤
-- 🔭 **Main Quest**: Lagi beresin web management & dev buat RefreshBreeze.
-- 🌱 **Skill Up**: Sedang mempelajari jurus terlarang *Microservices* & *AI Magic*.
-- 👯 **Co-op Mode**: Selalu open buat kolaborasi proyek unik & tantangan baru.
-- 💬 **Ask Me**: Soal Tailwind, React, Supabase, ato cara nangkep hantu (bug)!
-- 📫 **Ping**: `orangnoob6@gmail.com`
-- ⚡ **Fun Fact**: Aku aslinya *danger*... tpi bohong, aslinya mah kalem (klo dapet kopi) ☕
+  <img src="https://img.shields.io/badge/Library-Chart.js-39d353?style=flat-square&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Library-AOS-157a33?style=flat-square" />
+  <img src="https://img.shields.io/badge/UI-Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
 </div>
 
 ---
 
-### 🛠️ POWER-UPS: TECH STACK
+### 📊 Aktivitas & Statistik GitHub
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,js,tailwind,nodejs,py,java,supabase,git,vscode&perline=5" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Ferdy-Nurdianto&show_icons=true&theme=emerald-green&hide_border=true" alt="Statistik GitHub" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/COMPILER-CHART.JS-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/ANIMATOR-AOS-007FFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI_KIT-MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Ferdy-Nurdianto&theme=grass&bg_color=ffffff&hide_border=true" width="100%" />
 </div>
 
 ---
 
-### 📈 GLOBAL RANKING: STATS
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Ferdy-Nurdianto&show_icons=true&theme=vue-dark&bg_color=000000&title_color=FFFF00&text_color=FFFFFF&icon_color=FFFF00&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Ferdy-Nurdianto&theme=dracula&bg_color=000000&color=FFFF00&line=FFFF00&point=FFFFFF&area=true&hide_border=true" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Ferdy-Nurdianto&layout=compact&theme=vue-dark&bg_color=000000&title_color=FFFF00&text_color=FFFFFF&hide_border=true" />
-</div>
-
----
-
-### 🍕 PAC-MAN CONTRIBUTION (HIGH SCORE)
+### 🐍 Contribution Journey
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/M-Ferdy-Nurdianto/M-Ferdy-Nurdianto/output/github-contribution-grid-snake.svg" alt="Pac-man animation" />
+  <img src="https://raw.githubusercontent.com/M-Ferdy-Nurdianto/M-Ferdy-Nurdianto/output/github-contribution-grid-snake.svg" alt="Contribution Journey" />
   <br>
-  <i>(Pac-man kuning lagi makanin kontribusi lo, gess!)</i>
+  <i>Setiap kotak hijau adalah langkah menuju kemajuan yang berkelanjutan.</i>
 </p>
 
 ---
 
-### 🤝 MULTIPLAYER: CONNECT
+### 🤝 Mari Terhubung
 
-<div align="center">
+<div align="left">
   <a href="mailto:orangnoob6@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://instagram.com/ikifer" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://tiktok.com/@nobodybutfking" target="_blank">
-    <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://discord.com/users/stelajeruk_" target="_blank">
-    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&text_color=FFFF00" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer&text=GAME%20OVER?%20NO,%20LEVEL%20UP!&fontSize=30&fontColor=FFFF00" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=emerald-green" width="100%" />
 </div>
