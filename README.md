@@ -75,25 +75,42 @@
 
 ---
 
-### 🎯 Current Quest & Aspirations
+### 🎯 Current Quest & Aspirations / Ambisi & Harapan
 
-Right now, I'm deep-diving into the **"Cheki Digital Platform"** — an innovative solution designed to bridge the gap between idols and fans via modern tech. ✨📸
+<details open>
+<summary><b>🛠️ Future Web Developer at JOT (JKT48 Operation Team)</b></summary>
+<br>
 
-**Long-term Goals:**
+**ID:** Memiliki impian besar untuk bergabung dengan **JKT48 Operation Team (JOT)** sebagai pengembang web. Saya berambisi untuk berkontribusi dalam memodernisasi ekosistem digital JKT48, menghadirkan solusi teknologi inovatif yang mampu mempererat interaksi antara idola dan penggemar, serta memastikan platform digital JKT48 tetap relevan dan unggul di era teknologi modern.
 
-1.  **JOT (JKT48 Operation Team) Contributor** — Contribuing to the JKT48 digital ecosystem.
-2.  **Creative Producer** — Building a tech-forward idol group to spread happiness globally.
+**EN:** I hold a great ambition to join the **JKT48 Operation Team (JOT)** as a Web Developer. My goal is to contribute to modernizing JKT48's digital ecosystem by delivering innovative technological solutions that strengthen the interaction between idols and fans, ensuring JKT48's digital platforms remain at the forefront of the modern tech era.
+
+</details>
+
+<details open>
+<summary><b>🎬 Future Creative Producer</b></summary>
+<br>
+
+**ID:** Membangun dan mengelola grup idol sendiri yang berbasis teknologi, menyebarkan kebahagiaan melalui perpaduan seni pertunjukan dan inovasi digital.
+
+**EN:** Building and managing my own tech-forward idol group, spreading happiness through the perfect blend of performing arts and digital innovation.
+
+</details>
+
+<br>
+
+**Current Hub:** I'm also deep-diving into the **"Cheki Digital Platform"** — an innovative solution designed to bridge the gap between idols and fans via modern tech. ✨📸
 
 ---
 
 ### 📊 Vital Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Ferdy-Nurdianto&show_icons=true&theme=emerald-green&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Ferdy-Nurdianto&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Ferdy-Nurdianto&theme=grass&bg_color=ffffff&color=2ea44f&line=2ea44f&point=157a33&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Ferdy-Nurdianto&theme=react-dark&bg_color=0d1117&color=2ea44f&line=2ea44f&point=157a33&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
