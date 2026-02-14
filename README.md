@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=157a33&height=220&section=header&text=Programmer%20Wota&fontSize=60&animation=fadeIn&fontAlignY=35&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=157a33&height=220&section=header&text=Programmer%20Freelance&fontSize=60&animation=fadeIn&fontAlignY=35&fontColor=ffffff" width="100%" />
 </div>
 
 <div align="center">
@@ -11,23 +11,41 @@
   <img src="https://komarev.com/ghpvc/?username=M-Ferdy-Nurdianto&label=Visitor%20Count&color=2ea44f&style=flat-square" alt="M-Ferdy-Nurdianto" />
 </p>
 
+### 🌿 The Professional Lore / Jejak Profesional
+
+<details open>
+<summary><b>🚀 Core Developer at Soeltan Medsos</b></summary>
+<br>
+
+**ID:** Sebagai pengembang inti di [soeltanmedsos.web.id](https://soeltanmedsos.web.id), saya bertanggung jawab dalam merancang dan mengoptimalkan sistem _Social Media Marketing (SMM)_ yang andal. Fokus utama saya adalah memastikan skalabilitas platform, integritas basis data, dan integrasi sistem pembayaran yang _seamless_ guna melayani ribuan transaksi dengan kecepatan dan keamanan tingkat tinggi.
+
+**EN:** As a core developer at Soeltan Medsos, I spearhead the architectural design and optimization of a robust SMM platform. My mission revolves around ensuring high scalability, database integrity, and seamless payment gateway integration to handle high-volume transactions with peak performance and security.
+
+</details>
+
+<details open>
+<summary><b>🍃 Staff & Web Developer at RefreshBreeze</b></summary>
+<br>
+
+**ID:** Di jajaran Staff [RefreshBreeze](https://instagram.com/refreshbreeze.id) (Idol Group asal Tulungagung), peran saya melampaui sekadar pengembangan teknis. Saya mengelola seluruh ekosistem digital, mulai dari pengembangan portal utama hingga sistem dokumentasi terpadu. Saya percaya bahwa sinergi antara teknologi informasi dan manajemen kreatif adalah kunci sukses dalam membangun _branding_ modern di industri hiburan lokal.
+
+**EN:** Serving as both Staff and Web Developer for RefreshBreeze, an idol group based in Tulungagung, I manage the complete digital ecosystem. My role encompasses full-stack web development and integrated system documentation. I believe the synergy between IT and creative management is the cornerstone of modern branding in the local entertainment industry.
+
+</details>
+
+<details open>
+<summary><b>👕 Co-Owner at Zenith.ra</b></summary>
+<br>
+
+**ID:** Selaku salah satu pemilik dari **Zenith.ra**, sebuah _brand apparel_ yang baru merintis asal Mojokerto, Jawa Timur, saya menggabungkan visi kewirausahaan dengan strategi digital mutakhir. Di sini, saya tidak hanya mengelola operasional bisnis, tetapi juga membangun fondasi infrastruktur digital untuk memperkenalkan produk lokal berkualitas ke pasar nasional dengan pendekatan yang inovatif.
+
+**EN:** As a Co-Owner of Zenith.ra—a rising apparel brand from Mojokerto, East Java—I merge entrepreneurial vision with cutting-edge digital strategies. Beyond business operations, I focus on building a strong digital infrastructure to introduce high-quality local products to the national market through innovative approaches.
+
+</details>
+
 ---
 
-### 🌿 The Professional Lore
-
-I'm a high-dedication technology developer building efficient, innovative, and scalable digital infrastructure. Currently leveling up as **Staff at RefreshBreeze (Idol Group Tulungagung)**, where I manage the IT core and website ecosystem.
-
-As **Programmer Wota**, I bridge the gap between clean code logic and the vibrant energy of idol culture. I don't just build websites; I create digital experiences that hit different.
-
-#### 💡 Key Roles & Missions
-
-- **Freelance Developer** — Solving complex problems and shipping high-quality code for global clients.
-- **RefreshBreeze IT Lead** — Engineering the digital foundation for the idol industry.
-- **Soeltan Medsos Architect** — Building engagement-driven social platforms.
-
----
-
-### 🚀 Stack & Proficiency (Skill Tree)
+### �️ Tooling & Tech Stack
 
 <div align="center">
 
@@ -46,14 +64,6 @@ As **Programmer Wota**, I bridge the gap between clean code logic and the vibran
 | **PHP**          | Backend    | ![45%](https://progress-bar.dev/45/?scale=100&title=PHP&width=200&color=157a33)      |
 | **Laravel**      | Backend    | ![40%](https://progress-bar.dev/40/?scale=100&title=Laravel&width=200&color=157a33)  |
 
-</div>
-
----
-
-### 🛠️ Tooling & Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,js,tailwind,nodejs,py,java,supabase,git,vscode&perline=5" />
 </div>
 
 <p align="center">
