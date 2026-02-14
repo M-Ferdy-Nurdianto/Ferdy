@@ -45,24 +45,27 @@
 
 ---
 
-### �️ Tooling & Tech Stack
+### 🛠️ Tooling & Tech Stack
 
 <div align="center">
 
-| Skill            | Deck       | Proficiency                                                                          |
-| :--------------- | :--------- | :----------------------------------------------------------------------------------- |
-| **HTML**         | Frontend   | ![95%](https://progress-bar.dev/95/?scale=100&title=HTML&width=200&color=157a33)     |
-| **CSS**          | Frontend   | ![90%](https://progress-bar.dev/90/?scale=100&title=CSS&width=200&color=157a33)      |
-| **JavaScript**   | Core       | ![85%](https://progress-bar.dev/85/?scale=100&title=JS&width=200&color=157a33)       |
-| **React**        | Frontend   | ![85%](https://progress-bar.dev/85/?scale=100&title=React&width=200&color=157a33)    |
-| **Tailwind CSS** | Styling    | ![90%](https://progress-bar.dev/90/?scale=100&title=Tailwind&width=200&color=157a33) |
-| **Node.js**      | Backend    | ![75%](https://progress-bar.dev/75/?scale=100&title=Node&width=200&color=157a33)     |
-| **Supabase**     | Backend/DB | ![80%](https://progress-bar.dev/80/?scale=100&title=Supabase&width=200&color=157a33) |
-| **Midtrans**     | Payment    | ![80%](https://progress-bar.dev/80/?scale=100&title=Midtrans&width=200&color=157a33) |
-| **Figma**        | Design     | ![85%](https://progress-bar.dev/85/?scale=100&title=Figma&width=200&color=157a33)    |
-| **Canva**        | Design     | ![95%](https://progress-bar.dev/95/?scale=100&title=Canva&width=200&color=157a33)    |
-| **PHP**          | Backend    | ![45%](https://progress-bar.dev/45/?scale=100&title=PHP&width=200&color=157a33)      |
-| **Laravel**      | Backend    | ![40%](https://progress-bar.dev/40/?scale=100&title=Laravel&width=200&color=157a33)  |
+<table>
+  <tr>
+    <td align="center" width="250">
+      <b>Frontend Development</b><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=3" />
+    </td>
+    <td align="center" width="250">
+      <b>Backend & Core</b><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,supabase,php,laravel&perline=2" />
+    </td>
+    <td align="center" width="250">
+      <b>Design & Solutions</b><br><br>
+      <img src="https://skillicons.dev/icons?i=figma,canva&perline=2" /><br>
+      <img src="https://img.shields.io/badge/Midtrans-002B45?style=flat-square&logo=icloud&logoColor=white" height="25" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
