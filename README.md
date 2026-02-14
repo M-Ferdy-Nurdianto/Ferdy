@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <p><b>Programmer Wota | Software Developer | System Management</b></p>
-  <p>🍃 <i>Bringing a "Fresh Breeze" to the Digital Ecosystem</i> 🍃</p>
+  <p><b>High-Performance Freelance Developer | Crafting Digital Gems</b></p>
+  <p>🍃 <i>Bringing a "Fresh Breeze" to the Digital Ecosystem with Main Character Energy</i> 🍃</p>
 </div>
 
 <p align="center">
@@ -13,36 +13,44 @@
 
 ---
 
-### 🌿 Professional Journey
+### 🌿 The Professional Lore
 
-Seorang pengembang teknologi yang berdedikasi tinggi dengan fokus pada membangun infrastruktur digital yang efisien dan inovatif. Memiliki kebanggaan besar sebagai **Staff RefreshBreeze (Idol Group Tulungagung)**, di mana saya mengelola sistem manajemen dan ekosistem website utama.
+I'm a high-dedication technology developer building efficient, innovative, and scalable digital infrastructure. Currently leveling up as **Staff at RefreshBreeze (Idol Group Tulungagung)**, where I manage the IT core and website ecosystem.
 
-Sebagai **Programmer Wota**, saya percaya bahwa logika pemrograman dan energi kreatif dari dunia idol mampu menciptakan simbiosis teknologi yang luar biasa bagi para penggemar.
+As **Programmer Wota**, I bridge the gap between clean code logic and the vibrant energy of idol culture. I don't just build websites; I create digital experiences that hit different.
 
-#### 💡 Key Roles & Contributions
+#### 💡 Key Roles & Missions
 
-- **RefreshBreeze Group Staff** — Penanggung jawab infrastruktur IT dan manajemen sistem website.
-- **Soeltan Medsos** — Pengembangan platform media sosial dan sistem pendukung.
-- **Idol Industry Tech** — Menangani berbagai inisiatif digital untuk ekosistem grup idol lokal.
-
----
-
-### 🚀 Sedang Dikerjakan (Current Quest)
-
-Saat ini, saya sedang mencurahkan kreativitas untuk membangun **"Cheki Digital Platform"** — sebuah solusi inovatif yang dirancang khusus untuk meningkatkan interaksi antara talenta idol dan penggemar melalui teknologi modern. ✨📸
+- **Freelance Developer** — Solving complex problems and shipping high-quality code for global clients.
+- **RefreshBreeze IT Lead** — Engineering the digital foundation for the idol industry.
+- **Soeltan Medsos Architect** — Building engagement-driven social platforms.
 
 ---
 
-### 🎯 Impian & Aspirasi Besar
+### 🚀 Stack & Proficiency (Skill Tree)
 
-Bagi saya, kode adalah instrumen untuk mewujudkan ambisi yang lebih tinggi:
+<div align="center">
 
-1.  **JOT (JKT48 Operation Team)** — Memiliki impian besar untuk bergabung dan berkontribusi langsung bagi kemajuan JKT48.
-2.  **Creative Producer** — Membangun dan mengelola **Grup Idol sendiri** yang mampu menyebarkan kebahagiaan bagi banyak orang melalui perpaduan seni dan teknologi.
+| Skill            | Deck       | Proficiency                                                                          |
+| :--------------- | :--------- | :----------------------------------------------------------------------------------- |
+| **HTML**         | Frontend   | ![95%](https://progress-bar.dev/95/?scale=100&title=HTML&width=200&color=157a33)     |
+| **CSS**          | Frontend   | ![90%](https://progress-bar.dev/90/?scale=100&title=CSS&width=200&color=157a33)      |
+| **JavaScript**   | Core       | ![85%](https://progress-bar.dev/85/?scale=100&title=JS&width=200&color=157a33)       |
+| **React**        | Frontend   | ![85%](https://progress-bar.dev/85/?scale=100&title=React&width=200&color=157a33)    |
+| **Tailwind CSS** | Styling    | ![90%](https://progress-bar.dev/90/?scale=100&title=Tailwind&width=200&color=157a33) |
+| **Node.js**      | Backend    | ![75%](https://progress-bar.dev/75/?scale=100&title=Node&width=200&color=157a33)     |
+| **Supabase**     | Backend/DB | ![80%](https://progress-bar.dev/80/?scale=100&title=Supabase&width=200&color=157a33) |
+| **Midtrans**     | Payment    | ![80%](https://progress-bar.dev/80/?scale=100&title=Midtrans&width=200&color=157a33) |
+| **Figma**        | Design     | ![85%](https://progress-bar.dev/85/?scale=100&title=Figma&width=200&color=157a33)    |
+| **Canva**        | Design     | ![95%](https://progress-bar.dev/95/?scale=100&title=Canva&width=200&color=157a33)    |
+| **PHP**          | Backend    | ![45%](https://progress-bar.dev/45/?scale=100&title=PHP&width=200&color=157a33)      |
+| **Laravel**      | Backend    | ![40%](https://progress-bar.dev/40/?scale=100&title=Laravel&width=200&color=157a33)  |
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+### 🛠️ Tooling & Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,vue,js,tailwind,nodejs,py,java,supabase,git,vscode&perline=5" />
@@ -54,7 +62,18 @@ Bagi saya, kode adalah instrumen untuk mewujudkan ambisi yang lebih tinggi:
 
 ---
 
-### 📊 Contribution & Performance
+### 🎯 Current Quest & Aspirations
+
+Right now, I'm deep-diving into the **"Cheki Digital Platform"** — an innovative solution designed to bridge the gap between idols and fans via modern tech. ✨📸
+
+**Long-term Goals:**
+
+1.  **JOT (JKT48 Operation Team) Contributor** — Contribuing to the JKT48 digital ecosystem.
+2.  **Creative Producer** — Building a tech-forward idol group to spread happiness globally.
+
+---
+
+### 📊 Vital Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M-Ferdy-Nurdianto&show_icons=true&theme=emerald-green&hide_border=true" alt="GitHub Stats" />
@@ -64,7 +83,9 @@ Bagi saya, kode adalah instrumen untuk mewujudkan ambisi yang lebih tinggi:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Ferdy-Nurdianto&theme=grass&bg_color=ffffff&color=2ea44f&line=2ea44f&point=157a33&area=true&hide_border=true" width="100%" />
 </div>
 
-### 🤝 Mari Terhubung
+---
+
+### 🤝 Let's Collab
 
 <div align="center">
   <a href="mailto:orangnoob6@gmail.com">
