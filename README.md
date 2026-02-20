@@ -5,6 +5,7 @@
 <div align="center">
   <p><b>High-Performance Freelance Developer | Crafting Digital Gems</b></p>
   <p>🍃 <i>Bringing a "Fresh Breeze" to the Digital Ecosystem with Main Character Energy</i> 🍃</p>
+  <p>🌐 <a href="https://ferdy.web.id"><b>ferdy.web.id</b></a></p>
 </div>
 
 <p align="center">
@@ -114,6 +115,9 @@
 ### 🤝 Let's Collab
 
 <div align="center">
+  <a href="https://ferdy.web.id" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-157a33?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="mailto:orangnoob6@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
